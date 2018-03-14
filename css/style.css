@@ -423,6 +423,8 @@ input, button {
 .app__meeting-name {
   color: #000;
   font-size: 1.3rem;
+  margin-top: -59px;
+  margin-left: -33px;
 }
 .app__meeting-info {
   color: #949498;
